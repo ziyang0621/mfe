@@ -3,7 +3,7 @@ import MarketingApp from './components/MarketingApp';
 
 export default () => {
   return <div>
-    <h1>Yo there!!</h1>
+    <h1>Javascript React</h1>
     <hr/>
     <MarketingApp/>
   </div>
